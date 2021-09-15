@@ -1,0 +1,13 @@
+E:\Колледж\Прогерство\Дома\AutoCanteen\AutoCanteen\obj\Debug\AutoCanteen.csprojResolveAssemblyReference.cache
+E:\Колледж\Прогерство\Дома\AutoCanteen\AutoCanteen\bin\Debug\AutoCanteen.exe.config
+E:\Колледж\Прогерство\Дома\AutoCanteen\AutoCanteen\bin\Debug\AutoCanteen.exe
+E:\Колледж\Прогерство\Дома\AutoCanteen\AutoCanteen\bin\Debug\AutoCanteen.pdb
+E:\Колледж\Прогерство\Дома\AutoCanteen\AutoCanteen\obj\Debug\AutoCanteen.exe
+E:\Колледж\Прогерство\Дома\AutoCanteen\AutoCanteen\obj\Debug\AutoCanteen.pdb
+A:\Projects\2018\AutoCanteen\AutoCanteen\bin\Debug\AutoCanteen.exe.config
+A:\Projects\2018\AutoCanteen\AutoCanteen\bin\Debug\AutoCanteen.exe
+A:\Projects\2018\AutoCanteen\AutoCanteen\bin\Debug\AutoCanteen.pdb
+A:\Projects\2018\AutoCanteen\AutoCanteen\obj\Debug\AutoCanteen.csprojAssemblyReference.cache
+A:\Projects\2018\AutoCanteen\AutoCanteen\obj\Debug\AutoCanteen.csproj.CoreCompileInputs.cache
+A:\Projects\2018\AutoCanteen\AutoCanteen\obj\Debug\AutoCanteen.exe
+A:\Projects\2018\AutoCanteen\AutoCanteen\obj\Debug\AutoCanteen.pdb
